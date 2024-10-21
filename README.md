@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shuayb-Dev
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning hml and css and javascript.
+- 🌱 I’m currently learning html and css and javascript.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me github and linkedin
 
