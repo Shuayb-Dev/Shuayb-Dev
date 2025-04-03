@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shuayb-Dev
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning html and css and javascript.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me github and linkedin
+- 👀 I’m interested in Python.
+- 💞️ I’m looking to collaborate on web Programming projects.
+
 
 <!---
 Shuayb-Dev/Shuayb-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
