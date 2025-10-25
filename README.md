@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shuayb-Dev
-- 👀 I’m interested in Python.
+- 👀 I’m interested in Javascript.
 - 💞️ I’m looking to collaborate on web Programming projects.
 
 
